@@ -2,6 +2,7 @@
     padding: 0px 0px;
     margin: 0px 0px;
 }
+
 body {
     width: 60%;
     height: 100vh;
@@ -28,7 +29,7 @@ header {
 }
 
 /* BOTONES DE XARXES 
-He fet un de "social-final" per que es puguin afegir nous elements a la esquerra (copiant i enganxant els nous al html amb la mateixa class "social" i aquest "social-final" quedi estatic amb un marge dret fixat*/
+He fet un de "social-final" per que es puguin afegir nous elements a la esquerra (copiant i enganxant els nous al html amb la mateixa class "social" i aquest "social-final" quedi estatic amb un marge dret fixat)*/
 
 .social-final {
     width: 30px;

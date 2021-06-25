@@ -28,31 +28,43 @@ header {
     display: inline-flex;   
 }
 
-/* BOTONES DE XARXES 
-He fet un de "social-final" per que es puguin afegir nous elements a la esquerra (copiant i enganxant els nous al html amb la mateixa class "social" i aquest "social-final" quedi estatic amb un marge dret fixat)*/
+/* BOTONES DE XARXES */
 
-.social-final {
+.social-1 {
     width: 30px;
     height: 30px;
-    background-color: lightgrey;
-    border-radius: 50%;
-    border-color: black;
     float: right;
     margin-right: 20px;
     margin-left: 3px;
     margin-top: 30px;
-}
-
-.social {
-    width: 30px;
-    height: 30px;
     background-color: lightgrey;
     border-radius: 50%;
     border-color: black;
+}
+
+.social-2 {
+    width: 30px;
+    height: 30px;
     float: right;
     margin-right: 3px;
     margin-left: 3px;
     margin-top: 30px;
+    background-color: lightgrey;
+    border-radius: 50%;
+    border-color: black;
+}
+
+
+.social-3 {
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-top: 30px;
+    background-color: lightgrey;
+    border-radius: 50%;
+    border-color: black;
 }
 
 /* BARRA DE NAVEGACIÓN*/

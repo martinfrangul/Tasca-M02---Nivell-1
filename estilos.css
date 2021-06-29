@@ -69,13 +69,13 @@ header {
 
 /* BARRA DE NAVEGACIÓN*/
 
-.nav-elem {
+.nav {
     display: inline-flex;
     width: 100%;
     list-style: none;
 }
 
-.nav-elem li {
+.nav-elem {
     width: 20%;
     height: 25px;
     background-color: lightgrey;
